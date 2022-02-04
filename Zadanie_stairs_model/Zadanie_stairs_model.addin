@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\Zadanie_stairs_model.dll"</Assembly>		
+		<AddInId>72BEF2BD-A3BA-4060-8B78-66B67C7FE0AA</AddInId>		
+		<FullClassName>Zadanie_stairs_model.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Задание 2.3</Text>
+	</AddIn>
+</RevitAddIns>
